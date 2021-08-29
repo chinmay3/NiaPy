@@ -214,4 +214,4 @@ class ArtificialBeeColonyAlgorithm(Algorithm):
                 best_x, best_fitness = population[mi].x.copy(), population[mi].f
         return population, np.asarray([f.f for f in population]), best_x, best_fitness, {'trials': trials}
 
-# vim: tabstop=3 noexpandtab shiftwidth=3 softtabstop=3
+
