@@ -295,4 +295,4 @@ class BacterialForagingOptimization(Algorithm):
 
         return population, population_fitness, best_x, best_fitness, {'cost': cost, 'health': health}
 
-# vim: tabstop=3 noexpandtab shiftwidth=3 softtabstop=3
+
