@@ -19,4 +19,4 @@ for i in range(5):
     print('%s -> %s' % (best[0], best[1]))
 print(algo.get_parameters())
 
-# vim: tabstop=3 noexpandtab shiftwidth=3 softtabstop=3
+
