@@ -352,4 +352,4 @@ class GeneticAlgorithm(Algorithm):
                 best_x, best_fitness = self.get_best(new_pop[i], new_pop[i].f, best_x, best_fitness)
         return new_pop, np.asarray([i.f for i in new_pop]), best_x, best_fitness, {}
 
-# vim: tabstop=3 noexpandtab shiftwidth=3 softtabstop=3
+
