@@ -446,4 +446,4 @@ class GlowwormSwarmOptimizationV3(GlowwormSwarmOptimization):
         """Update range."""
         return range_ + (self.beta * np.sum(neighbors)) if np.sum(neighbors) < self.nt else (-self.beta1 * np.sum(neighbors))
 
-# vim: tabstop=3 noexpandtab shiftwidth=3 softtabstop=3
+
