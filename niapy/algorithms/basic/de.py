@@ -1017,4 +1017,4 @@ class DynNpMultiStrategyDifferentialEvolution(MultiStrategyDifferentialEvolution
         """
         return DynNpDifferentialEvolution.post_selection(self, pop, task, xb, fxb)
 
-# vim: tabstop=3 noexpandtab shiftwidth=3 softtabstop=3
+
