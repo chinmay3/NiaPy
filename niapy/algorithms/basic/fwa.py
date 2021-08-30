@@ -865,4 +865,4 @@ class DynamicFireworksAlgorithm(DynamicFireworksAlgorithmGauss):
                                                             best_fitness, amplitude_cf, task)
         return population, population_fitness, best_x, best_fitness, {'amplitude_cf': amplitude_cf}
 
-# vim: tabstop=3 noexpandtab shiftwidth=3 softtabstop=3
+
