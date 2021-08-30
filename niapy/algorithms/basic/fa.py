@@ -158,4 +158,4 @@ class FireflyAlgorithm(Algorithm):
 
         return population, population_fitness, best_x, best_fitness, {'alpha': alpha}
 
-# vim: tabstop=3 noexpandtab shiftwidth=3 softtabstop=3
+
