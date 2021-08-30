@@ -1147,4 +1147,4 @@ class ComprehensiveLearningParticleSwarmOptimizer(ParticleSwarmAlgorithm):
                                     'min_velocity': min_velocity,
                                     'max_velocity': max_velocity, 'v': v, 'flag': flag, 'pc': pc}
 
-# vim: tabstop=3 noexpandtab shiftwidth=3 softtabstop=3
+
