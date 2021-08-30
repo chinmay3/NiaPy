@@ -360,4 +360,4 @@ class CamelAlgorithm(Algorithm):
         best_x, best_fitness = self.get_best(new_caravan, new_caravan_fitness, best_x, best_fitness)
         return new_caravan, new_caravan_fitness, best_x, best_fitness, {}
 
-# vim: tabstop=3 noexpandtab shiftwidth=3 softtabstop=3
+
