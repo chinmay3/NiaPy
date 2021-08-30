@@ -143,4 +143,4 @@ class ParameterFreeBatAlgorithm(Algorithm):
                 best_x, best_fitness = solution.copy(), new_fitness
         return population, population_fitness, best_x, best_fitness, {'velocities': velocities}
 
-# vim: tabstop=3 noexpandtab shiftwidth=3 softtabstop=3
+
