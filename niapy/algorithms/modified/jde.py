@@ -247,4 +247,4 @@ class MultiStrategySelfAdaptiveDifferentialEvolution(SelfAdaptiveDifferentialEvo
             [self.strategy(pop, i, xb, self.differential_weight, self.crossover_probability, self.rng, task, self.individual_type, self.strategies) for i in
              range(len(pop))])
 
-# vim: tabstop=3 noexpandtab shiftwidth=3 softtabstop=3
+
